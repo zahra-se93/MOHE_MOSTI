@@ -8,7 +8,7 @@ func main() {
 	result := multiply(4, 10)
 	fmt.Println(result)
     sum, multiple:= maths(4,4)
-	fmt.Println(sum, " and ",multip)
+	fmt.Println(sum, " and ",multiple)
 
 	sumNew, multipleNew:= maths(4,4)
 	fmt.Println(sumNew, " and ",multipleNew)
